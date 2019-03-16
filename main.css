@@ -1,0 +1,42 @@
+.mayor{
+    font-family: 'Abel', sans-serif;
+    border: solid black;
+    display: flex;
+    flex-direction: column-reverse ;
+    justify-content: space-around;
+    margin: 0% 10%  0% 10%;
+    padding: 1px;  
+}
+.cuadro1{
+    border: solid red;
+    height: 600px;
+    width: 1020px
+}
+
+.cuadro2{
+    border: solid green;
+    height: 600px;
+    width: 1020px;
+}
+
+
+.cuadro3{
+    border: solid blue;
+    height: 600px;
+    width: 1020px
+}
+
+
+.cuadro4{
+    border: solid orange;
+    height: 600px;
+    width: 1020px
+}
+/* .photo1{
+    width: auto;
+    height: auto;
+    border: solid black;
+    height: 800px;
+    width: 500px;
+    background-image: url("https://www.ip.gov.py/ip/wp-content/uploads/2015/07/capacitacion-Senepa.jpg")
+} */
